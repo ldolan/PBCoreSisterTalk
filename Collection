@@ -1,1 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd"
+  xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+  collectionTitle="SisterTalk"
+  collectionDescription="A collection of audio recording of a feminist college radio interview program"
+  collectionSource="unknown"
+  collectionRef="http://unknown"
+  collectionDate="2018-15-16T19:18:20-05:00">
 
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
+
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
+
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
+
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
+
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
+
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
+
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
+
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
+
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
+
+<pbcoreDescriptionDocument>
+  <pbcoreAssetType>Item</pbcoreAssetType> 
+  <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
+  <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
+  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
+  <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
+  <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
+  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+
+<pbcoreInstantiation>
+<instantiationIdentifier source=unknown</instantiationIdentifier>
+  <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
+  <instantiationDigital>audio</instantiationDigital>
+  <instantiationLocation>http://unknown</instantiationLocation>  
+  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationGenerations>Copy</instantiationGenerations>
+  <instantiationDuration>48:46</instantiationDuration>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>

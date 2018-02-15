@@ -13,19 +13,19 @@
   <pbcoreAssetDate dateType="broadcast">1996-10-01T12:02:00-05:00</pbcoreAssetDate>
   <pbcoreIdentifier source="college">unknown</pbcoreIdentifier>
   <pbcoreTitle titleType="Program">SisterTalk</pbcoreTitle>  
-  <pbcoreTitle titleType="Episode"> </pbcoreTitle>
-  <pbcoreSubject subjectType="topic" source="unknown">   </pbcoreSubject>  
+  <pbcoreTitle titleType="Episode">The Games Black Girls Play: Discussion of black women</pbcoreTitle>
+  <pbcoreSubject subjectType="topic" source=lcsh>Double dutch(Rope skipping)</pbcoreSubject><pbcoreSubject subjectType="topic" source=lcsh>Games for girls</pbcoreSubject>  
   <pbcoreDescription descriptionType="Abstract"></pbcoreDescription>
   <pbcoreGenre source="PBCore Genre list">Interview</pbcoreGenre>
   <pbcoreCreator><creator>SisterTalk</creator><creatorRole> </creatorRole></pbcoreCreator>
-  <pbcoreContributor><contributor>       </contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
+  <pbcoreContributor><contributor>Kyra Gaunt</contributor><contributorRole>interviewee</contributorRole></pbcoreContributor>
 
 <pbcoreInstantiation>
 <instantiationIdentifier source=unknown</instantiationIdentifier>
   <instantiationDate dateType="published">1996-10-01T12:02:00-05:00</instantiationDate>
   <instantiationDigital>audio</instantiationDigital>
   <instantiationLocation>http://unknown</instantiationLocation>  
-  <instantiationMediaType>Sound</instantiationMediaType>
+  <instantiationMediaType> </instantiationMediaType>
   <instantiationGenerations>Copy</instantiationGenerations>
   <instantiationDuration>48:46</instantiationDuration>
 </pbcoreInstantiation>
